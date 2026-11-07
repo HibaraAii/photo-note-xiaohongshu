@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>NSCameraUsageDescription</key>
+  <string>Allow Photo Note to take photos for local notes.</string>
+  <key>NSPhotoLibraryUsageDescription</key>
+  <string>Allow Photo Note to select photos for local notes.</string>
+  <key>NSPhotoLibraryAddUsageDescription</key>
+  <string>Allow Photo Note to save images to your photo library.</string>
+</dict>
+</plist>
